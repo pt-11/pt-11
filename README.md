@@ -1,5 +1,6 @@
 Jestem filoglotą.
 - [Овда курык](https://pt-11.github.io/ovda-kuryk/) — notatki z nauki języka maryjskiego
+- [Herneh kapustanke](https://pt-11.github.io/herneh/) — notatki z języków, których się nie uczę
 - [My sauna has been struck by lightning](https://pt-11.github.io/my-sauna/) —  a phrasebook in Uralic languages
 
 <!--
